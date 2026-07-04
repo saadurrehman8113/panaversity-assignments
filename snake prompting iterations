@@ -1,0 +1,31 @@
+Below are the prompt iterations in sequence to build the snake game.
+
+1- I want you to create a simple snake game for me. The idea is there will be a snake with default size. And there will be an object, by eating that object, 
+the snake's size will be increased.
+
+2- Good work so far, but we can improve it.
+
+- You should make the head and the tail of the snake distinct, so that we can identify it as snake's head and tail.
+- You should terminate the game if the snake bites itself.
+- You should add a "Restart" button.
+- You should add a score counter which will store the highest score.
+- You should add a range to adjust the speed of the snake.
+
+3- The speed range is working inverted.
+Make the game window a little more bigger.
+
+4- Great.
+Now I want you to make the object, snake's tail and the its body rounded instead of square.
+
+5- Great.
+
+Now I want you to align the buttons and label vertically and horizontally.
+And change the label from "High" to "Highest Score"
+
+6- I want to improve the restart button,
+Please reduce the padding in the restart button and apply border radius of 5 to it.
+Also tell me what is the current padding and what will be the new padding.
+
+7- Change the padding of the Restart button to 3px vertically and 6px horizontally. And increase the border radius to 10.
+
+8- Need 1 character space after the ":" Like Score:0 should be Score: 0
